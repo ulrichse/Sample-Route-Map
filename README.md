@@ -1,5 +1,7 @@
 # <span style= "color:darkgreen">Road Trip to Raleigh!</span>🚘🎤 👯
 
+You can explore the map here [as its own web page here](index.html)
+
 #### <span style= "#FF0D65">Lab 03 Deliverable for GHY 5818</span>
 Sarah Ulrich
 
